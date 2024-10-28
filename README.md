@@ -15,12 +15,14 @@
   <img width="12" />
  <img src="https://skillicons.dev/icons?i=css"/ height="40" alt="css">
  <img width="12"/>
- <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mangodb"/>
+ <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb"/>
+ <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git"/>
+ <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify"/>
+ <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=npm" height="40" alt="npm"/>
  <img width="12"/>
  <br/>
- <p >
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
+
 </div>
