@@ -1,5 +1,7 @@
 <h1 align="left" >Hey✌️, Hi everyone! </h1>
-<p align="center" >My name is Dhanush Kumar and I'm a CS student  </p>
+<h3>
+  <p align="center" >My name is Dhanush    </p>
+</h3>
 <br/>
 
 <div align="center">
