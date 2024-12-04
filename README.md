@@ -26,5 +26,6 @@
   <img src="https://skillicons.dev/icons?i=npm" height="40" alt="npm"/>
  <img width="12"/>
  <br/>
+ <img src="https://skillicons.dev/icons?i=excel"  height="40"  width=""12alt="Excel"/>
 
 </div>
