@@ -30,6 +30,6 @@
 
 </div>
 <div classname="Digital_clock">
-  <iframe href="https://resplendent-flan-93bf88.netlify.app/" alt="DIgital clock" height="50" width="55">
+  <iframe src="https://resplendent-flan-93bf88.netlify.app/" alt="DIgital clock" height="50" width="55">
   </iframe>
 </div>
