@@ -29,3 +29,6 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel.svg"  height="40"  width="12" lt="Excel"/>
 
 </div>
+<div classname="Digital_clock">
+  <img href="https://resplendent-flan-93bf88.netlify.app/" alt="DIgital clock" height="50" width="55"/>
+</div>
